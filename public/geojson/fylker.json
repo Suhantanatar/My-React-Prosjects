@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Oslo" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.65, 59.85],
+            [10.85, 59.85],
+            [10.85, 60.0],
+            [10.65, 60.0],
+            [10.65, 59.85]
+          ]
+        ]
+      }
+    }
+  ]
+}
